@@ -1,0 +1,23 @@
+{
+  "name": "scaling-octo-chainsaw",
+  "version": "1.0.0",
+  "description": "aut0 generated name",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaelandamberlovescatsandpugs/scaling-octo-chainsaw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaelandamberlovescatsandpugs/scaling-octo-chainsaw/issues"
+  },
+  "homepage": "https://github.com/yaelandamberlovescatsandpugs/scaling-octo-chainsaw#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
